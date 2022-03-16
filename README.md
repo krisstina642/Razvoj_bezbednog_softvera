@@ -1,2 +1,6 @@
-# Razvoj_bezbednog_softvera
- Projekat 2021/2022
+# Za potrebe projekta realizovani zahtevi definisani unutar RBS_Projekat_2021_2022 PDF fajla
+
+
+
+
+
